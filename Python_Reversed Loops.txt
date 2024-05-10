@@ -1,0 +1,22 @@
+
+
+for p in reversed(range(0, 105, 5)):
+    print("Write a hundreds words, lead = ", p)
+    
+    if p == 0:
+        print("Lead = ", p, ", itatapon pag walang pakinabang\n\n")
+        break
+    
+
+for e in reversed(range(0, 105, 20)):
+    print("Erased a hundred words, lead = ", e)
+    
+    if e == 0:
+        print("Eraser = ", e, " pudpod agad")
+        break
+    
+    
+    
+    
+
+
